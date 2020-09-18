@@ -10,3 +10,6 @@ Tsq = sq*Tcoats
 Anwser = Tsq/11
 
 print("in total you will need", Anwser, " amount of paint")
+
+## ACS - i think you need heigh and wdith not just area but for the moment it is fine
+## ACS - Logically it woprks but your code needs annotations (comments)
